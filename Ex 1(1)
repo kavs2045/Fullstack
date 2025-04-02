@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Cozy Bean Cafe</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f4f4f4;
+        }
+
+        section {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            width: 80%;
+            max-width: 600px;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
+    <section>
+        <p>
+            Welcome to The Cozy Bean Cafe, your neighborhood destination for handcrafted coffee and a warm, inviting atmosphere. We are passionate about sourcing the finest beans from around the world and brewing them to perfection. Whether you're looking for a quick espresso, a relaxing latte, or a flavorful cold brew, our friendly baristas are here to craft the perfect cup just for you. Come in and enjoy the aroma of freshly roasted coffee, the soft murmur of conversation, and the comforting feeling of being at home.
+        </p>
+    </section>
+
+</body>
+</html>
